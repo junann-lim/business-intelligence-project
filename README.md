@@ -1,4 +1,4 @@
-<b>Project Title: Proposed Strategies for Customers Retention in Global Bike Incorporation (GBI)</b>
+# Proposed Strategies for Customers Retention in Global Bike Incorporation (GBI)
 
 This business intelligence project is one of the projects that I have done during my Data Science master's degree. In this project, I have used a real world dataset from Global Bike Incorporation (GBI) and performed business analysis.
 
